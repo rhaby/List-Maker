@@ -10,4 +10,8 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone
+$ git clone https://github.com/rhaby/Lisr-Maker
+
+$ cd Lisr-Maker
+
+$ 
