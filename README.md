@@ -1,1 +1,3 @@
 # Lisr-Maker
+
+$ apt update
