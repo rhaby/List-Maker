@@ -1,4 +1,4 @@
-# Lisr-Maker
+# List-Maker
 
 ##Installation and Using
 ```bash
