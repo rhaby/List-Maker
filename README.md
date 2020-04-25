@@ -14,4 +14,5 @@ $ git clone https://github.com/rhaby/Lisr-Maker
 
 $ cd Lisr-Maker
 
-$ 
+$ python 'List maker.py'
+
