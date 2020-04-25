@@ -26,9 +26,9 @@ uesr = '078' #اليوزر المراد التخمين عليه بين النق�
 chars2 = '1234567890' #ارقام واحرف لو ترغب
 email = ''#اختار نطاق معين مثل هوتميل او جميل 
 print('=========================================')
-amount = input('What is a number List')
+amount = input('What is a number List: ')
 amount = int(amount)
-length2 = input('How many letters or numbers do you want to add?')
+length2 = input('How many letters or numbers do you want to add?: ')
 length2 = int(length2)
 
 print('==================================')
