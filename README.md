@@ -1,7 +1,7 @@
 # Lisr-Maker
 
-Installation and Using
-
+##Installation and Using
+```bash
 $ apt update
 
 $ apt upgrade
@@ -16,3 +16,4 @@ $ cd Lisr-Maker
 
 $ python 'List maker.py'
 
+```
