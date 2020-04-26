@@ -12,7 +12,7 @@ $ pkg install git
 
 $ git clone https://github.com/rhaby/Lisr-Maker
 
-$ cd Lisr-Maker
+$ cd List-Maker
 
 $ python 'List maker.py'
 
